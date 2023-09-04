@@ -1,7 +1,7 @@
 
 
 body{
-    background-image: url(images/photo.avif);
+    background-image: url("photo.avif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
